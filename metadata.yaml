@@ -1,0 +1,33 @@
+_repo: Les-memoires-d-un-valet-de-pied_72982
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hughes, William L.
+    gutenberg_agent_id: '56897'
+    url: http://www.gutenberg.org/2009/agents/56897
+creator:
+  author:
+    agent_name: Thackeray, William M.
+    gutenberg_agent_id: '56896'
+    url: http://www.gutenberg.org/2009/agents/56896
+description: ''
+gutenberg_issued: '2024-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72982'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5610078p
+pgterms:marc905: 20230904121314thackeray
+pgterms:marc906: '1859'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bA. Bourdilliat et Cie, $c1859.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les mémoires d'un valet de pied
+url: http://www.gutenberg.org/ebooks/72982
