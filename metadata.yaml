@@ -5,12 +5,17 @@ contributor:
     agent_name: Hughes, William L.
     gutenberg_agent_id: '56897'
     url: http://www.gutenberg.org/2009/agents/56897
+covers:
+- cover_type: archival
+  image_path: 72982-h/images/cover.jpg
 creator:
   author:
     agent_name: Thackeray, William M.
     gutenberg_agent_id: '56896'
     url: http://www.gutenberg.org/2009/agents/56896
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72982#Les-memoires-d-un-valet-de-pied
 gutenberg_issued: '2024-02-18'
 gutenberg_type: Text
 identifiers:
